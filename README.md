@@ -128,7 +128,7 @@ Tests réalisés sur : Windows 11, Intel Core, 32 Go RAM, CPU uniquement.
 
 - **NLP :** spaCy `fr_core_news_md` (français)
 - **KGE :** TransE, DistMult, ComplEx (via PyKEEN)
-- **LLM :** Mistral 7B (via Ollama, local, aucune donnée envoyée sur internet)
+- **LLM :** llama3.2:1b (via Ollama, local, aucune donnée envoyée sur internet)
 
 ## Résultats clés
 
