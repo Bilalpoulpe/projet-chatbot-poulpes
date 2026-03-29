@@ -1,0 +1,25 @@
+# Web Crawling & NLP
+requests>=2.28
+beautifulsoup4>=4.12
+spacy>=3.5
+pandas>=1.5
+tqdm>=4.64
+
+# RDF & SPARQL
+rdflib>=6.3
+SPARQLWrapper>=2.0
+
+# Reasoning
+owlready2>=0.45
+
+# Knowledge Graph Embedding
+pykeen>=1.10
+torch==2.3.1
+scikit-learn>=1.2
+matplotlib>=3.7
+numpy>=1.24
+
+# RAG Chatbot
+gradio>=3.40
+
+# Utilities
