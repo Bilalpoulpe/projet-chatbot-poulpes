@@ -149,8 +149,7 @@ Tests réalisés sur : Windows 11, Intel Core, 32 Go RAM, CPU uniquement.
 
 ## Screenshot
 
-![Chatbot](<img width="1741" height="1263" alt="chatbot" src="https://github.com/user-attachments/assets/87e6458a-b045-4e9d-801c-5551c2e5bbc3" />
-)
+![Chatbot](reports/chatbot.png)
 
 ## Licence
 
