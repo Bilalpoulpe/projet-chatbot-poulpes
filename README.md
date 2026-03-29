@@ -149,7 +149,7 @@ Tests réalisés sur : Windows 11, Intel Core, 32 Go RAM, CPU uniquement.
 
 ## Screenshot
 
-![Chatbot Gradio](chatbot_screenshot.png)
+![Chatbot Gradio](reports/chatbot_screenshot.png)
 
 ## Licence
 
