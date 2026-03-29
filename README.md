@@ -43,7 +43,7 @@ pip install -r requirements.txt
 python -m spacy download fr_core_news_md
 
 # 4. Installer et lancer Ollama + modèle
-ollama pull mistral
+ollama pull llama3.2:1b
 ollama serve   # laisser tourner dans un terminal séparé
 ```
 
