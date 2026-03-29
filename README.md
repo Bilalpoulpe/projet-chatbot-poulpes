@@ -27,7 +27,7 @@ Lab 4 — Chatbot RAG (SPARQL + LLM local)
 
 - Python ≥ 3.9
 - [Ollama](https://ollama.com/) installé localement
-- ~8 Go d'espace disque (modèle Mistral 7B)
+- ~8 Go d'espace disque (modèle llama3.2:1b)
 
 ### Setup
 
