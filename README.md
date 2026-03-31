@@ -66,7 +66,7 @@ jupyter notebook notebooks/Lab3_Knowledge_Graph_Embedding.ipynb or # or py -m ju
 # 4. Chatbot RAG (nécessite ollama serve)
 jupyter notebook notebooks/Lab4_Chatbot_RAG.ipynb or # or py -m jupyter notebook notebooks/Lab4_Chatbot_RAG.ipynb
 ```
-Appuyez sur Run All Cells
+Appuyez sur Run All Cells et suivez les instructions du Notebook.
 
 
 ### Démo RAG rapide
