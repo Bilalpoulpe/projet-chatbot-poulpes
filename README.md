@@ -55,16 +55,16 @@ Lancer les notebooks dans l'ordre depuis le dossier `notebooks/` :
 
 ```bash
 # 1. Crawling & extraction NLP (~5 min)
-jupyter notebook notebooks/Lab1_Crawling_NLP.ipynb
+jupyter notebook notebooks/Lab1_Crawling_NLP.ipynb # or py -m jupyter notebook notebooks/Lab1_Crawling_NLP.ipynb
 
 # 2. Construction & expansion KB (~30-60 min, requêtes Wikidata)
-jupyter notebook notebooks/Lab2_KB_Construction_Expansion.ipynb
+jupyter notebook notebooks/Lab2_KB_Construction_Expansion.ipynb or # or py -m jupyter notebook notebooks/Lab2_KB_Construction_Expansion.ipynb
 
 # 3. Knowledge Graph Embedding (~20-30 min, entraînement CPU)
-jupyter notebook notebooks/Lab3_Knowledge_Graph_Embedding.ipynb
+jupyter notebook notebooks/Lab3_Knowledge_Graph_Embedding.ipynb or # or py -m jupyter notebook notebooks/Lab3_Knowledge_Graph_Embedding.ipynb
 
 # 4. Chatbot RAG (nécessite ollama serve)
-jupyter notebook notebooks/Lab4_Chatbot_RAG.ipynb
+jupyter notebook notebooks/Lab4_Chatbot_RAG.ipynb or # or py -m jupyter notebook notebooks/Lab4_Chatbot_RAG.ipynb
 ```
 
 ### Démo RAG rapide
